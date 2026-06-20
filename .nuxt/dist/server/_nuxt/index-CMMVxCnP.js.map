@@ -1,0 +1,1 @@
+{"version":3,"file":"index-CMMVxCnP.js","sources":["../../../../pages/index.vue"],"sourcesContent":["<script setup lang=\"ts\">\nawait navigateTo('/categorias', { replace: true })\n</script>\n"],"names":["_withAsyncContext"],"mappings":";;;;;;;;;;;;;;;;AACA,KAAA,QAAA,SAAA,IAAAA,iBAAA,MAAM,WAAW,eAAe,EAAE,SAAS,MAAM,CAAA;;;;;;;;;;;"}
